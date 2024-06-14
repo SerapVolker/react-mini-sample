@@ -1,4 +1,4 @@
-# 
+# STAR CLOTHES
 
 <h3>Cайт онлайн-магазин одежды </h3>
 <img src="https://github.com/SerapVolker/react-mini-sample/assets/171007658/bad90d34-e166-47ba-98c8-c9a1825a73f3">
@@ -59,4 +59,17 @@ npm run dev
 <h4>Доработали переходы и сделал несколько маленьких страниц</h4>
 <h3>День 14</h3>
 <h4>Добавили страницы для каталога</h4>
+
+ <h2> Библеотеки </h2>
+ <h4>Styled-components</h4>
+  <h4>React-router-dom</h4>
+
+   <h2>Приложение </h2>
+  <h4>Visual studio code</h4>
+  <h4>Git hub</h4>
+
+  <h2> Автро </h2>
+  <h4>Петров Эльдар</h4>
+
+
 
