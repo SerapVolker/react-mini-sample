@@ -1,6 +1,6 @@
 # 
 
-<h3>Cайт онлай-магазин одежды </h3>
+<h3>Cайт онлайн-магазин одежды </h3>
 <img src="https://github.com/SerapVolker/react-mini-sample/assets/171007658/bad90d34-e166-47ba-98c8-c9a1825a73f3">
 <img src="https://github.com/SerapVolker/react-mini-sample/assets/171007658/14ce40bc-1bb9-4882-bd31-852ef69d8cbc">
 
