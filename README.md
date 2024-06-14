@@ -1,7 +1,7 @@
 # 
 
-<h3>Cайт для продажи растений </h3>
-<img src="">
+<h3>Cайт онлай-магазин одежды </h3>
+<img src="https://github.com/SerapVolker/react-mini-sample/assets/171007658/1e797008-7995-4407-9b66-430fa5fc26a2">
 Участники:
 Петров Эльдар 
 Талыбов Мурад
@@ -9,7 +9,7 @@
 
 установка:
 ```
-git clone 
+git clone https://github.com/SerapVolker/react-mini-sample.git
 ```
 ```
 npm install
